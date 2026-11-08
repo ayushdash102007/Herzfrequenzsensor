@@ -15,13 +15,13 @@ Entwicklung einer eigenen Leiterplatte (PCB) zur Messung der Herzfrequenz mit ei
 | USB-C-Buchse | Stromversorgung und Programmierung |
 
 ## Schaltplan
-![Schaltplan](Bilder/schaltplan.png)
+![Schaltplan](Schaltplan.png)
 
 ## Leiterplatte (PCB)
-![PCB-Layout](Bilder/pcb.png)
+![PCB-Layout](PCH-Layout.png)
 
 ## 3D-Ansicht
-![3D-Ansicht](Bilder/3d.png)
+![3D-Ansicht](3D-Ansicht.png)
 
 ## Was ich gelernt habe
 1. Entwurf eines Schaltplans und PCB-Layouts mit KiCad

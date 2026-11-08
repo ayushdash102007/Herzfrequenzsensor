@@ -18,7 +18,7 @@ Entwicklung einer eigenen Leiterplatte (PCB) zur Messung der Herzfrequenz mit ei
 ![Schaltplan](Schaltplan.png)
 
 ## Leiterplatte (PCB)
-![PCB-Layout](PCH-Layout.png)
+![PCB-Layout](PCB-Layout.png)
 
 ## 3D-Ansicht
 ![3D-Ansicht](3D-Ansicht.png)
